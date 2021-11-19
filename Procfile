@@ -1,1 +1,1 @@
-web: java -jar target/todos-1.0.0.jar
+web: java -jar build/libs/todos-1.0.jar
